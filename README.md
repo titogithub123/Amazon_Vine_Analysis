@@ -24,5 +24,5 @@ Next, we can see from the data that there were 14,477 reviews from non-Vine memb
 
 And, then we can see there were (8,212) 5-star reviews from non-Vine members.
 
-![image](https://user-images.githubusercontent.com/93171738/161165764-e2af534f-cdf4-458d-8c73-fcabbdfc3f34.png)
+![image](https://user-images.githubusercontent.com/93171738/161165833-e6c35b4e-1f0a-4b29-8528-e5d08388a459.png)
 
