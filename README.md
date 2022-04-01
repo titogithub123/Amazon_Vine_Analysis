@@ -35,3 +35,7 @@ And, rounding out our analysis we see the percentage of of non-Vine reviews that
 ![image](https://user-images.githubusercontent.com/93171738/161169211-f6d5d7ee-8401-4955-be40-69d74d89ed11.png)
 
 ## Summary
+
+From our analysis it looks like there is no positivity bias for the 5-star reviews givin by the Vine members and the non-Vine members. Although the sheer number of reviews is much higher for the non-Vine members vs. the Vine members (14,477 vs. 60) the percentage totals of (57% vs. 56.7%) indicate that the number of 5-star reviews represents a true and accurate reporting of 5-star reviews. 
+
+One additional analysis we could do with our current data is that we can take the number of total votes and divide it by the number of helpful votes to see just how much the votes cast actually help those looking for unbiased information. 
