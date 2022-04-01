@@ -26,3 +26,10 @@ And, then we can see there were (8,212) 5-star reviews from non-Vine members.
 
 ![image](https://user-images.githubusercontent.com/93171738/161165833-e6c35b4e-1f0a-4b29-8528-e5d08388a459.png)
 
+3) Lastly, we can see that the percentage of Vine reviews that were 5-stars was 56.7%. 
+
+![image](https://user-images.githubusercontent.com/93171738/161169052-d588117b-da01-4288-9c99-62f6431b05d1.png)
+
+And, rounding out our analysis we see the percentage of of non-Vine reviews that were 5 stars was 57%.
+
+![image](https://user-images.githubusercontent.com/93171738/161169211-f6d5d7ee-8401-4955-be40-69d74d89ed11.png)
